@@ -1,0 +1,16 @@
+{
+    "name": "Tay",
+    "mainType": "Earth",
+    "level": 1,
+    "levelxp": 1.0,
+    "stats": {
+        "Earth": [
+            100,
+            50,
+            62.5,
+            12.5
+        ]
+    },
+    "tier": 1,
+    "case": 1
+}
