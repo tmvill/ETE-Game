@@ -1,5 +1,14 @@
 [
     {
+    "name":"Empty Slot",
+    "type":"Key",
+    "tier": 1,
+    "amount_to_merge": -1,
+    "power": 0,
+
+    "itemid": 0
+    },
+    {
     "name":"Potion of Healing",
     "type":"Healing",
     "tier": 1,
@@ -100,15 +109,15 @@
     },
 
   {
-    "name": "Potion of Mana",
+    "name": "Potion of making stuff up",
     "type": "Healing",
     "tier": 1,
-    "amount_to_merge": 2,
+    "amount_to_merge": 4,
     "power": 20,
     "itemid": 11
   },
   {
-    "name": "Elixir of Mana",
+    "name": "Elixir of Bullshit",
     "type": "Healing",
     "tier": 2,
     "amount_to_merge": 3,
@@ -116,7 +125,7 @@
     "itemid": 12
   },
   {
-    "name": "Wellspring of Mana",
+    "name": "Tears of Beyonce",
     "type": "Healing",
     "tier": 3,
     "amount_to_merge": 4,

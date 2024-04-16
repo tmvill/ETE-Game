@@ -1,7 +1,7 @@
 [
     {
         "casenum":0,
-        "text":"Welcome to Avatar: The crackbender! (Hit 'Enter' to continue)"
+        "text":"Welcome to Avatar: The crackbender!"
     },
 
     {
@@ -11,7 +11,7 @@
     
     {
         "casenum": 2,
-        "text":"Thanks for returning! Loading up your save file... (Hit 'Enter' to continue)"
+        "text":"Thanks for returning! Loading up your save file..."
     },
     {
         "casenum": 3,
@@ -60,6 +60,22 @@
     {
         "casenum": 14,
         "text":"Type the name of the option or the integer value into the terminal to commit to that action"
+    },
+    {
+        "casenum": 15,
+        "text":"Congrats on finishing the tutorial!"
+    },
+    {
+        "casenum": 16,
+        "text":"In case you didn't see, if you mess up an input your turn will be lost."
+    },
+    {
+        "casenum": 17,
+        "text":"This is not a bug but an intended feature"
+    },
+    {
+        "casenum": 18,
+        "text":"Go forth in your journey."
     },
     {
         "casenum": 999,
