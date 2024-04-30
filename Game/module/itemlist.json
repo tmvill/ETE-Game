@@ -1,0 +1,234 @@
+[
+    {
+    "name":"Empty Slot",
+    "type":"Key",
+    "tier": 1,
+    "amount_to_merge": -1,
+    "power": 0,
+
+    "itemid": 0
+    },
+    {
+    "name":"Potion of Healing",
+    "type":"Healing",
+    "tier": 1,
+    "amount_to_merge": 2,
+    "power": 25,
+
+    "itemid": 1
+    },
+
+    {
+    "name":"Super Potion of Healing",
+    "type":"Healing",
+    "tier": 2,
+    "amount_to_merge": 3,
+    "power": 50,
+
+    "itemid": 2
+    },
+
+    {
+    "name":"Mega Potion of Healing",
+    "type":"Healing",
+    "tier": 3,
+    "amount_to_merge": 4,
+    "power": 100,
+
+    "itemid": 3
+    },
+
+    {
+    "name":"Ultimate Potion of Healing",
+    "type":"Healing",
+    "tier": 4,
+    "amount_to_merge": -1,
+    "power": 200,
+
+    "itemid": 4
+    },
+
+    {
+    "name":"Pill of Focus",
+    "type":"DmgBuff",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": 0.10,
+
+    "itemid": 5
+    },
+
+    {
+    "name":"Big Pill of Focus",
+    "type":"DmgBuff",
+    "tier": 2,
+    "amount_to_merge": 8,
+    "power": 0.15,
+
+    "itemid": 6
+    },
+
+    {
+    "name":"Adderall",
+    "type":"DmgBuff",
+    "tier": 3,
+    "amount_to_merge": -1,
+    "power": 0.30,
+
+    "itemid": 7
+    },
+
+    {
+    "name":"Fedora of Protection",
+    "type":"DefBuff",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": 0.10,
+
+    "itemid": 8
+    },
+
+    {
+    "name":"Capris of Protection",
+    "type":"DefBuff",
+    "tier": 2,
+    "amount_to_merge": 8,
+    "power": 0.15,
+
+    "itemid": 9
+    },
+
+    {
+    "name":"Crack",
+    "type":"DefBuff",
+    "tier": 3,
+    "amount_to_merge": -1,
+    "power": 0.30,
+
+    "itemid": 10
+    },
+
+  {
+    "name": "Potion of making stuff up",
+    "type": "Healing",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": 20,
+    "itemid": 11
+  },
+  {
+    "name": "Elixir of Bullshit",
+    "type": "Healing",
+    "tier": 2,
+    "amount_to_merge": 3,
+    "power": 40,
+    "itemid": 12
+  },
+  {
+    "name": "Tears of Beyonce",
+    "type": "Healing",
+    "tier": 3,
+    "amount_to_merge": 4,
+    "power": 80,
+    "itemid": 13
+  },
+  {
+    "name": "Minor Healing Potion",
+    "type": "Healing",
+    "tier": 1,
+    "amount_to_merge": 2,
+    "power": 10,
+    "itemid": 14
+  },
+  {
+    "name": "Healing Potion",
+    "type": "Healing",
+    "tier": 2,
+    "amount_to_merge": 3,
+    "power": 25,
+    "itemid": 15
+  },
+  {
+    "name": "Greater Healing Potion",
+    "type": "Healing",
+    "tier": 3,
+    "amount_to_merge": -1,
+    "power": 50,
+    "itemid": 16
+  },
+  {
+    "name": "Minor Strength Elixir",
+    "type": "DmgBuff",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": 0.05,
+    "itemid": 17
+  },
+  {
+    "name": "Elixir of Might",
+    "type": "DmgBuff",
+    "tier": 2,
+    "amount_to_merge": 8,
+    "power": 0.10,
+    "itemid": 18
+  },
+  {
+    "name": "Berserker Rage",
+    "type": "DmgBuff",
+    "tier": 3,
+    "amount_to_merge": -1,
+    "power": 0.20,
+    "itemid": 19
+  },
+  {
+    "name": "Minor Agility Elixir",
+    "type": "SpeBuff",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": 0.05,
+    "itemid": 20
+  },
+  {
+    "name": "Grinder",
+    "type": "Key",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": -1,
+    "itemid": 21
+  },
+  {
+    "name": "Papers",
+    "type": "Key",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": -1,
+    "itemid": 22
+  },
+  {
+    "name": "Filter",
+    "type": "Key",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": -1,
+    "itemid": 23
+  },
+  {
+    "name": "Weed",
+    "type": "Key",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": -1,
+    "itemid": 24
+  },
+  {
+    "name": "Rolling Tray",
+    "type": "Key",
+    "tier": 1,
+    "amount_to_merge": 4,
+    "power": -1,
+    "itemid": 25
+  }
+]
+    
+  
+
